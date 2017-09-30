@@ -23,12 +23,12 @@
 	<scope>provided</scope>
         </dependency>
     </dependencies>
-    <repositories>
-   <repository>
-	<id>nukkit-repo</id>
-	<url>http://ci.regularbox.com/plugin/repository/everything/</url>
-     </repository>
-    </repositories>
+  <repositories>
+  	<repository>
+  		<id>regularbox</id>
+  		<url>http://ci.regularbox.com/plugin/repository/everything/</url>
+  	</repository>
+  </repositories>
     <build>
         <plugins>
             <plugin>
